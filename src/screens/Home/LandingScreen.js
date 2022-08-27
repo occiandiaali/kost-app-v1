@@ -184,7 +184,7 @@ const LandingScreen = ({theme, navigation}) => {
     const options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': '68d97d068amsh6e29993afa3d9b1p154d43jsnb7bfb59480e3',
+        'X-RapidAPI-Key': '',
         'X-RapidAPI-Host': 'mboum-finance.p.rapidapi.com',
       },
     };
